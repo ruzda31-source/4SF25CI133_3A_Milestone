@@ -25,17 +25,14 @@ This project analyzes daily air quality data from Indian cities and states using
 7. Visualizes the insights with bar charts, line charts and a heatmap
 
 ## Key findings
-*- Delhi is the most polluted state with an average AQI of 206, followed by Jharkhand (165), Himachal Pradesh (160) and Bihar (157). Mizoram is the cleanest at 47.
+- Delhi is the most polluted state with an average AQI of 206, followed by Jharkhand (165), Himachal Pradesh (160) and Bihar (157). Mizoram is the cleanest at 47.
 - Byrnihat (Assam) has the highest average AQI among locations (240). Most other top locations are in the Delhi-NCR region, such as Greater Noida, Gurugram, Ghaziabad and Faridabad.
 - Winter has the worst air quality (average AQI 139), followed by Post-Monsoon (132) and Summer (112). Monsoon is the cleanest season (81).
 - November 2023 was the most polluted month (165) and August 2024 the cleanest (63).
 - Delhi's average AQI (206) is about double that of Mumbai (106) and Kolkata (102), and nearly three times that of Chennai (74) and Bengaluru (75).
 - PM10 is the most frequent prominent pollutant (135,806 records), followed by PM2.5 (78,030).
 - About 55% of records fall in the Good or Satisfactory categories, 33% are Moderate, and about 12% are Poor, Very Poor or Severe.
-- About 19.9% of area-days were missing and were filled using mean imputation (each location's own mean AQI).)*
--
--
--
+- About 19.9% of area-days were missing and were filled using mean imputation (each location's own mean AQI).
 
 ## How to run
 1. Install Python and Jupyter Notebook (or use Google Colab)
